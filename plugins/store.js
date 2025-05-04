@@ -38,7 +38,7 @@ cmd({
   'pattern': "hpy",
   'desc': "Displays a dynamic edit msg for fun.",
   'category': "tools",
-  'react': '😁',
+  'react': '🤣',
   'filename': __filename
 }, async (_0x353111, _0x52aa7e, _0x362309, {
   from: _0x3d98dd,

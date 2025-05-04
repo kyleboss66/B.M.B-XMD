@@ -8,7 +8,7 @@
     "owner-verification": "tzsailas@gmail.com",  
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here. Make sure it starts with B.m.b-Xmd~  or get session id from here,  https://bmb-session-plag.onrender.com/pair",
+        "description": "Put your SESSION_ID here. Make sure it starts with B.m.b-Xmd~  or get session id from here,  https://bmb-zqqf.onrender.com",
         "value":"",
         "required": true        
     },

@@ -1,60 +1,67 @@
-
-
-
 <p align="center">
-  <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">𝐁.𝐌.𝐁-𝐗𝐌𝐃</h1>
+  <a href="https://github.com/bmbxmd?tab=followers">
+    <img src="https://img.shields.io/github/followers/bmbxmd?label=Followers&style=flat&color=007bff" alt="Followers" style="transform: scale(1.4); margin: 5px;"/>
+  </a>
+  <a href="https://github.com/bmbxmd/B.M.B-XMD/stargazers">
+    <img src="https://img.shields.io/github/stars/bmbxmd/B.M.B-XMD?style=flat&color=007bff" alt="Stars" style="transform: scale(1.4); margin: 5px;"/>
+  </a>
+  <a href="https://github.com/bmbxmd/B.M.B-XMD/fork">
+    <img src="https://img.shields.io/github/forks/bmbxmd/B.M.B-XMD?style=flat&color=007bff" alt="Forks" style="transform: scale(1.4); margin: 5px;"/>
+  </a>
+  <a href="https://github.com/bmbxmd/B.M.B-XMD/watchers">
+    <img src="https://img.shields.io/github/watchers/bmbxmd/B.M.B-XMD?label=Watching&style=flat&color=007bff" alt="Watching" style="transform: scale(1.4); margin: 5px;"/>
+  </a>
+    
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=BMB-XMD-V4.0" alt="Typing SVG" /></a>
   </p>
-  
----
-  </p>
-
-```
-Dont forget to fork & star repo
-```
-
----
 
 <div align="center">
   <img src="https://files.catbox.moe/f4q8fh.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
-            `DEPLOMENT STEPS`
+         `DEPLOMENT STEPS`
+### <h4 align="">1️⃣. GITHUB ACCOUNT</h4>
+<p style="text-align: center; font-size: 1.2em;">
 
-<div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
+<a href='https://github.com/bmbxmd' target="_blank">
+  <img alt='BMB ACCOUNT' src='https://img.shields.io/badge/follow%20%20account-orange?style=for-the-badge&logo=account&logoColor=black'/>
+</a>
+
+### <h4 align="">2️⃣. BMB WEBSITE</h4>
+<p style="text-align: center; font-size: 1.2em;">
   
-<div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #ff00ff;">
-  <a href='https://github.com/bmbxmd/B.M.B-XMD/fork' target="_blank">
-    <img src='https://img.shields.io/badge/FORK_REPO-FF5500?style=for-the-badge&logo=github&logoColor=white&labelColor=000000'/>
-  </a>
-</div>
+</a>
+<a href='https://bmb-website-seven.vercel.app/' target="_blank">
+  <img alt='WEBSITE' src='https://img.shields.io/badge/click%20BMB%20 WEBSITE-darkpink?style=for-the-badge&logo=website&logoColor=black'/>
+</a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-</div>
+### <h4 align="">3️⃣. FORK REPO SITE</h4>
+<p style="text-align: center; font-size: 1.2em;">
 
-<div style="background: #000000; border: 1px solid #ff00ff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #ff00ff; margin-bottom: 30px;">
+<p align="">
+<a href='https://github.com/bmbxmd/B.M.B-XMD/fork' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-fork repo-FF8700?style=for-the-badge&logo=fork&logoColor=white'/< width=150 height=28/p></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-  > **∞ BMB ACCOUNT**
-  <a href='https://github.com/bmbxmd' target="_blank">
-    <img src='https://img.shields.io/badge/FOLLOW ACCOUNT-800080?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
+
+### <h4 align="">4️⃣. PAIR CODE 1</h4>
+<p style="text-align: center; font-size: 1.2em;">
   
-  > **⚠️ OPTION ONE**
-  <a href='https://bmb-website-code-generator.onrender.com/pair' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_1-FF7700?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a></br>
-  
-  <div style="height: 10px;"></div>
-  
-  > **⚠️ OPTION TWO**
-  <a href='https://bmb-website-code-generator.onrender.com' target="_blank">
-    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
-  </a>
+<p align="">
+<a href='https://bmb-website-code-generator.onrender.com/pair' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-session site-CC00FF?style=for-the-badge&logo=session&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img
 
+     
+### <h4 align="">5️⃣. PAIR CODE 2</h4>
+<p style="text-align: center; font-size: 1.2em;">
+  
+<p align="">
+<a href='https://bmb-website-code-generator.onrender.com' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-session site-CC00FF?style=for-the-badge&logo=session&logoColor=white'/< width=150 height=28/p></a> </a>
+<a><img
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=DEPLOYMENT.OPTION" alt="Typing SVG" /></a>
-  </p>
----
+
 <h4 align="center">2. heroku</h4>
 <p style="text-align: center; font-size: 1.2em;">
   
