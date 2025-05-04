@@ -19,7 +19,7 @@ DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
 OWNER_NUMBER: process.env.OWNER_NUMBER || "255674211619",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "✦ BATI BOVU ✦ XMD ✦",
+OWNER_NAME: process.env.OWNER_NAME || "✦ BATI BOVU ✦ JITU LA KALE ✦",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ✦ B.M.B-XMD ✦ XMD ✦*",
 // add bot owner name    
@@ -35,9 +35,9 @@ ANTI_BAD: process.env.ANTI_BAD || "false",
 // false or true for anti bad words
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
-AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
+AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 // make true if you want auto reply on status 
-AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Seen by 𝙱.𝙼.𝙱-𝚇𝙼𝙳 🚀🔥*",
+AUTO_STATUS__MSG: process.env.AUTO_STATUS__MSG || "*🎉👀 Seen by Chipa 🚀🔥*",
 // set the auto reply massage on status reply    
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
